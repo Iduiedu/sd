@@ -1,0 +1,15 @@
+C:\Users\tekia\Desktop\Git\Clec2\Ex011IntArray3\bin\Debug\net6.0\Ex011IntArray3.exe
+C:\Users\tekia\Desktop\Git\Clec2\Ex011IntArray3\bin\Debug\net6.0\Ex011IntArray3.deps.json
+C:\Users\tekia\Desktop\Git\Clec2\Ex011IntArray3\bin\Debug\net6.0\Ex011IntArray3.runtimeconfig.json
+C:\Users\tekia\Desktop\Git\Clec2\Ex011IntArray3\bin\Debug\net6.0\Ex011IntArray3.dll
+C:\Users\tekia\Desktop\Git\Clec2\Ex011IntArray3\bin\Debug\net6.0\Ex011IntArray3.pdb
+C:\Users\tekia\Desktop\Git\Clec2\Ex011IntArray3\obj\Debug\net6.0\Ex011IntArray3.csproj.AssemblyReference.cache
+C:\Users\tekia\Desktop\Git\Clec2\Ex011IntArray3\obj\Debug\net6.0\Ex011IntArray3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekia\Desktop\Git\Clec2\Ex011IntArray3\obj\Debug\net6.0\Ex011IntArray3.AssemblyInfoInputs.cache
+C:\Users\tekia\Desktop\Git\Clec2\Ex011IntArray3\obj\Debug\net6.0\Ex011IntArray3.AssemblyInfo.cs
+C:\Users\tekia\Desktop\Git\Clec2\Ex011IntArray3\obj\Debug\net6.0\Ex011IntArray3.csproj.CoreCompileInputs.cache
+C:\Users\tekia\Desktop\Git\Clec2\Ex011IntArray3\obj\Debug\net6.0\Ex011IntArray3.dll
+C:\Users\tekia\Desktop\Git\Clec2\Ex011IntArray3\obj\Debug\net6.0\refint\Ex011IntArray3.dll
+C:\Users\tekia\Desktop\Git\Clec2\Ex011IntArray3\obj\Debug\net6.0\Ex011IntArray3.pdb
+C:\Users\tekia\Desktop\Git\Clec2\Ex011IntArray3\obj\Debug\net6.0\Ex011IntArray3.genruntimeconfig.cache
+C:\Users\tekia\Desktop\Git\Clec2\Ex011IntArray3\obj\Debug\net6.0\ref\Ex011IntArray3.dll
