@@ -1,0 +1,15 @@
+C:\Users\tekia\Desktop\Git\Clec2\Ex008_IntroArray\bin\Debug\net6.0\Ex008_IntroArray.exe
+C:\Users\tekia\Desktop\Git\Clec2\Ex008_IntroArray\bin\Debug\net6.0\Ex008_IntroArray.deps.json
+C:\Users\tekia\Desktop\Git\Clec2\Ex008_IntroArray\bin\Debug\net6.0\Ex008_IntroArray.runtimeconfig.json
+C:\Users\tekia\Desktop\Git\Clec2\Ex008_IntroArray\bin\Debug\net6.0\Ex008_IntroArray.dll
+C:\Users\tekia\Desktop\Git\Clec2\Ex008_IntroArray\bin\Debug\net6.0\Ex008_IntroArray.pdb
+C:\Users\tekia\Desktop\Git\Clec2\Ex008_IntroArray\obj\Debug\net6.0\Ex008_IntroArray.csproj.AssemblyReference.cache
+C:\Users\tekia\Desktop\Git\Clec2\Ex008_IntroArray\obj\Debug\net6.0\Ex008_IntroArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekia\Desktop\Git\Clec2\Ex008_IntroArray\obj\Debug\net6.0\Ex008_IntroArray.AssemblyInfoInputs.cache
+C:\Users\tekia\Desktop\Git\Clec2\Ex008_IntroArray\obj\Debug\net6.0\Ex008_IntroArray.AssemblyInfo.cs
+C:\Users\tekia\Desktop\Git\Clec2\Ex008_IntroArray\obj\Debug\net6.0\Ex008_IntroArray.csproj.CoreCompileInputs.cache
+C:\Users\tekia\Desktop\Git\Clec2\Ex008_IntroArray\obj\Debug\net6.0\Ex008_IntroArray.dll
+C:\Users\tekia\Desktop\Git\Clec2\Ex008_IntroArray\obj\Debug\net6.0\refint\Ex008_IntroArray.dll
+C:\Users\tekia\Desktop\Git\Clec2\Ex008_IntroArray\obj\Debug\net6.0\Ex008_IntroArray.pdb
+C:\Users\tekia\Desktop\Git\Clec2\Ex008_IntroArray\obj\Debug\net6.0\Ex008_IntroArray.genruntimeconfig.cache
+C:\Users\tekia\Desktop\Git\Clec2\Ex008_IntroArray\obj\Debug\net6.0\ref\Ex008_IntroArray.dll
