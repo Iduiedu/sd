@@ -1,0 +1,15 @@
+C:\Users\tekia\Desktop\Git\Clec2\Ex010_IntArray2\bin\Debug\net6.0\Ex010_IntArray2.exe
+C:\Users\tekia\Desktop\Git\Clec2\Ex010_IntArray2\bin\Debug\net6.0\Ex010_IntArray2.deps.json
+C:\Users\tekia\Desktop\Git\Clec2\Ex010_IntArray2\bin\Debug\net6.0\Ex010_IntArray2.runtimeconfig.json
+C:\Users\tekia\Desktop\Git\Clec2\Ex010_IntArray2\bin\Debug\net6.0\Ex010_IntArray2.dll
+C:\Users\tekia\Desktop\Git\Clec2\Ex010_IntArray2\bin\Debug\net6.0\Ex010_IntArray2.pdb
+C:\Users\tekia\Desktop\Git\Clec2\Ex010_IntArray2\obj\Debug\net6.0\Ex010_IntArray2.csproj.AssemblyReference.cache
+C:\Users\tekia\Desktop\Git\Clec2\Ex010_IntArray2\obj\Debug\net6.0\Ex010_IntArray2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekia\Desktop\Git\Clec2\Ex010_IntArray2\obj\Debug\net6.0\Ex010_IntArray2.AssemblyInfoInputs.cache
+C:\Users\tekia\Desktop\Git\Clec2\Ex010_IntArray2\obj\Debug\net6.0\Ex010_IntArray2.AssemblyInfo.cs
+C:\Users\tekia\Desktop\Git\Clec2\Ex010_IntArray2\obj\Debug\net6.0\Ex010_IntArray2.csproj.CoreCompileInputs.cache
+C:\Users\tekia\Desktop\Git\Clec2\Ex010_IntArray2\obj\Debug\net6.0\Ex010_IntArray2.dll
+C:\Users\tekia\Desktop\Git\Clec2\Ex010_IntArray2\obj\Debug\net6.0\refint\Ex010_IntArray2.dll
+C:\Users\tekia\Desktop\Git\Clec2\Ex010_IntArray2\obj\Debug\net6.0\Ex010_IntArray2.pdb
+C:\Users\tekia\Desktop\Git\Clec2\Ex010_IntArray2\obj\Debug\net6.0\Ex010_IntArray2.genruntimeconfig.cache
+C:\Users\tekia\Desktop\Git\Clec2\Ex010_IntArray2\obj\Debug\net6.0\ref\Ex010_IntArray2.dll
